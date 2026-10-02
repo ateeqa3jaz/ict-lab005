@@ -1,1 +1,2 @@
 "GitHub is a cloud-based hosting service for Git repositories." 
+"Summary: Git and GitHub help teams collaborate efficiently." 
