@@ -1,2 +1,4 @@
-"GitHub is a cloud-based hosting service for Git repositories." 
-"Summary: Git and GitHub help teams collaborate efficiently." 
+Git is a distributed version control system that tracks changes in files overtime
+Git is used so multipe developers can collaborate without overwriting each other's work
+Login from this branch
+Summary :Git hub adds repositories,branches, and pull requests.
